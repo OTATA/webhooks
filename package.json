@@ -1,0 +1,16 @@
+{
+  "name": "moip tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webhookParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Otavio",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "mockery": "^2.0.0",
+    "sinon": "^1.17.7"
+  }
+}
