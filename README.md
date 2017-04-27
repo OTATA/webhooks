@@ -10,7 +10,7 @@ This script parse a log file, implemented in node.js
 To execute the script, is simple, run in command line as bellow:
 
 ```
-node webhooksParser.js fileName
+node index.js fileName
 ```
 
 result example
