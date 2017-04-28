@@ -7,8 +7,8 @@ This script parse a log file, implemented in node.js
 
 ## Usage
 
-To execute the script, is simple, run in command line as bellow:
-
+It is simple to execute the script.
+Run the bellow command line:
 ```
 node index.js fileName
 ```
